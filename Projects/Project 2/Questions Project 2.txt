@@ -1,0 +1,43 @@
+do we need to use:
+Ask first about performance...
+
+start timer B?
+timer interrupt B?
+
+does stopTimer resets the timer to 0?
+
+can we include the line #include <sys/time.h> inside project 2 to avoid warning message?
+change the compilation flag inside makefile
+from: gcc –g project2.c student2.c
+to: gcc –o project2 project2.c student2.c
+
+do we have to de-allocate memory for state variables (my queue specifically)
+
+
+Ask what would be a good TIMER_INCREMENT?
+Ask about time between msgs parameter?
+
+Ask about readme
+
+Is this performance okay?
+Ran with:
+1000 msgs
+loss: 0.9
+corruption: 0.9
+out of order: 0.9
+time-between msgs: 100
+random: on
+---------------
+Received 1000
+Incorrect 4
+
+Ran with:
+10000 msgs
+loss: 0.5
+corruption: 0.5
+out of order: 0.5
+time-between msgs: 100
+random: on
+---------------
+Received 10000
+Incorrect 1

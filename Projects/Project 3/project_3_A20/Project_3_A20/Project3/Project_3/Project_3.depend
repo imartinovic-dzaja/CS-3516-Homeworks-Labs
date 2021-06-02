@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1602107868 source:c:\users\ivan\desktop\cs courses\cs 3516\projects\project 3\project_3_a20\project_3_a20\project3\node0.c
+	<stdio.h>
+	"project3.h"
+	"node_common.h"
+
+1412513737 c:\users\ivan\desktop\cs courses\cs 3516\projects\project 3\project_3_a20\project_3_a20\project3\project3.h
+
+1602108663 source:c:\users\ivan\desktop\cs courses\cs 3516\projects\project 3\project_3_a20\project_3_a20\project3\node1.c
+	<stdio.h>
+	"project3.h"
+	"node_common.h"
+
+1602108663 source:c:\users\ivan\desktop\cs courses\cs 3516\projects\project 3\project_3_a20\project_3_a20\project3\node2.c
+	<stdio.h>
+	"project3.h"
+	"node_common.h"
+
+1602108663 source:c:\users\ivan\desktop\cs courses\cs 3516\projects\project 3\project_3_a20\project_3_a20\project3\node3.c
+	<stdio.h>
+	"project3.h"
+	"node_common.h"
+
+1412513917 source:c:\users\ivan\desktop\cs courses\cs 3516\projects\project 3\project_3_a20\project_3_a20\project3\project3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"project3.h"
+
+1602108331 c:\users\ivan\desktop\cs courses\cs 3516\projects\project 3\project_3_a20\project_3_a20\project3\node_common.h
+
+1602109180 source:c:\users\ivan\desktop\cs courses\cs 3516\projects\project 3\project_3_a20\project_3_a20\project3\node_common.c
+	"project3.h"
+	<stdio.h>
+

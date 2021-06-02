@@ -1,0 +1,26 @@
+-client
+How do we decide on the name of the file being saved in the client? okay
+Will our client code be tested against web sites which give 404 or other? n
+Downloaded file contains </body></html> however also 5 characters after n
+It says client should take ip or url, however how would we request a specific file
+with filepath if we only give an ip address? n
+
+-server
+Does the server have to read the entire message and determine if the headers are correctly formed, 
+or does it just check whether the GET request if formed properly? n
+Do we have to include headers in our server response message? n
+Do we have to make the server accept other requests such as PUT or HEAD? n
+
+PDF
+In writing your code, make sure to check for an error return from your system calls or
+method invocations, and display an appropriate message. In C this means checking and
+handling error return codes from your system calls.
+
+
+How to add termination signal?
+How do we send a termination signal? Is it via kill?
+
+Resources for multi-threading
+
+
+

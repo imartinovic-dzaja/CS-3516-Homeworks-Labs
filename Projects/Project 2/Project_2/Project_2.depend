@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1600955771 source:c:\users\ivan\desktop\cs courses\cs 3516\projects\project 2\project_2\project2.c
+	"project2.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<sys/time.h>
+
+1601032656 c:\users\ivan\desktop\cs courses\cs 3516\projects\project 2\project_2\project2.h
+
+1600951851 source:c:\users\ivan\desktop\cs courses\cs 3516\projects\project 2\project_2\student2.c
+	<stdio.h>
+	<stdlib.h>
+	"project2.h"
+	<string.h>
+
+1600949640 source:c:\users\ivan\desktop\cs courses\cs 3516\projects\project 2\project_2\student2_common.c
+
+1600949569 source:c:\users\ivan\desktop\cs courses\cs 3516\projects\project 2\project_2\student2a.c
+
+1600949609 source:c:\users\ivan\desktop\cs courses\cs 3516\projects\project 2\project_2\student2b.c
+
